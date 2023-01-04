@@ -9,7 +9,7 @@
 - Search Trip [Using Price]
 - Reserve
 - View Passengers
-- Latest 10 Trips
+- View Latest 10 Trips
 
 ## Note
 
